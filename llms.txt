@@ -1,0 +1,15 @@
+# PelicanBayTrust.com — Pelican Bay Trust Services
+
+> PelicanBayTrust.com covers trust services in Pelican Bay, Naples, Florida — fiduciary stewardship for one of America's most storied waterfront communities.
+> The pelicanbaytrust.com domain is for sale at $25,000 (Buy Now) via Afternic, secured by Escrow.com.
+
+## Key pages
+- [PelicanBayTrust.com](https://pelicanbaytrust.com/)
+- [Market data](https://pelicanbaytrust.com/market-data)
+- [Why Florida's Dynasty Trusts Are Reshaping Estate Planning](https://pelicanbaytrust.com/insights/article1)
+- [The Families Behind the Gates: Naples' Quiet Capital Inflow](https://pelicanbaytrust.com/insights/article2)
+- [Place-Based Brands in Private Wealth: Why Geography Wins](https://pelicanbaytrust.com/insights/article3)
+- [The Insurance Bill That Moved the Market: Florida's Great Reprieve](https://pelicanbaytrust.com/insights/article5)
+
+## Optional
+- [Sitemap](https://pelicanbaytrust.com/sitemap.xml)
